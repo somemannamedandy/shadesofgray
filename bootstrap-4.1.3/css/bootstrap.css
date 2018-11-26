@@ -7337,3 +7337,11 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 /*CUSTOM CSS FILE*/
+.overflow-h {
+  overflow: hidden; }
+
+@media (min-width: 991.98px) {
+  .nav-hover {
+    border-bottom: 3px solid #ffffff; }
+  .nav-hover:hover {
+    border-bottom: 3px solid #3baafe; } }
